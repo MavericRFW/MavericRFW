@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MavericRFW
 - 👀 I’m interested in making my job a lot more efficient than designed.
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
